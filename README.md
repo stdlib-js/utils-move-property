@@ -20,6 +20,8 @@ limitations under the License.
 
 # Move Property
 
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+
 > Move a property from one object to another object.
 
 <section class="installation">
@@ -166,6 +168,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
+
+[npm-image]: http://img.shields.io/npm/v/@stdlib/utils-move-property.svg
+[npm-url]: https://npmjs.org/package/@stdlib/utils-move-property
+
+[test-image]: https://github.com/stdlib-js/utils-move-property/actions/workflows/test.yml/badge.svg
+[test-url]: https://github.com/stdlib-js/utils-move-property/actions/workflows/test.yml
+
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-move-property/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/utils-move-property?branch=main
+
+[dependencies-image]: https://img.shields.io/david/stdlib-js/utils-move-property
+[dependencies-url]: https://david-dm.org/stdlib-js/utils-move-property/main
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
