@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-move-property",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Move a property from one object to another object.",
   "license": "Apache-2.0",
   "author": {
