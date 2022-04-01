@@ -37,6 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/string-format": "^0.0.x",
     "@stdlib/utils-define-property": "^0.0.x"
   },
   "devDependencies": {
