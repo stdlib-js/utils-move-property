@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-move-property",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "Move a property from one object to another object.",
   "license": "Apache-2.0",
   "author": {
@@ -37,8 +37,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/string-format": "^0.0.3",
-    "@stdlib/utils-define-property": "^0.0.9"
+    "@stdlib/string-format": "^0.1.0",
+    "@stdlib/utils-define-property": "^0.1.0"
   },
   "devDependencies": {
     "@stdlib/bench": "^0.0.12",
