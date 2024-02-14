@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import moveProperty from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-move-property@esm/index.mjs';
+import moveProperty from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-move-property@v0.2.0-esm/index.mjs';
 ```
 
 #### moveProperty( source, prop, target )
@@ -116,7 +116,7 @@ var bool = moveProperty( obj1, 'c', obj2 );
 <body>
 <script type="module">
 
-import moveProperty from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-move-property@esm/index.mjs';
+import moveProperty from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-move-property@v0.2.0-esm/index.mjs';
 
 var obj1 = {
     'beep': 'boop'
