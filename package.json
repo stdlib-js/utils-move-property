@@ -38,14 +38,15 @@
   },
   "dependencies": {
     "@stdlib/string-format": "^0.2.1",
-    "@stdlib/utils-define-property": "^0.2.0"
+    "@stdlib/utils-define-property": "^0.2.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
-    "@stdlib/random-base-randu": "^0.2.0",
+    "@stdlib/random-base-randu": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.0"
+    "@stdlib/bench-harness": "^0.2.1"
   },
   "engines": {
     "node": ">=0.10.0",
