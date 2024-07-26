@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import moveProperty from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-move-property@deno/mod.js';
+import moveProperty from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-move-property@v0.2.2-deno/mod.js';
 ```
 
 #### moveProperty( source, prop, target )
@@ -111,7 +111,7 @@ var bool = moveProperty( obj1, 'c', obj2 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import moveProperty from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-move-property@deno/mod.js';
+import moveProperty from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-move-property@v0.2.2-deno/mod.js';
 
 var obj1 = {
     'beep': 'boop'
